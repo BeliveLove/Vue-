@@ -20,7 +20,7 @@ export default {
 
   },
   created: function () {
-    //此处初始化methods
+    //此处初始化methods以及data
     console.group('------created创建完毕状态------');
     console.log("%c%s", "color:red", "el     : " + this.$el); //undefined
     console.log("%c%s", "color:red", "data   : " + this.$data); //已被初始化 
