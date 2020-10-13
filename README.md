@@ -1,2 +1,2 @@
-# Vue-
+# Vue-Life-Cycle
 Vue生命周期
